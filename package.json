@@ -8,15 +8,15 @@
   },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/SebaBoler/BlackJack.git"
+      "url": "git+https://github.com/SebaBoler/BlackjackGame.git"
     },
       
   "author": "Seba Boler",
   "license": "ISC",
   "bugs": {
-     "url": "https://github.com/SebaBoler/BlackJack/issues"
+     "url": "https://github.com/SebaBoler/BlackjackGame/issues"
   },
-  "homepage": "https://github.com/SebaBoler/BlackJack#readme",
+  "homepage": "https://github.com/SebaBoler/BlackjackGame#readme",
   "devDependencies": {
     "eslint": "^4.16.0",
     "eslint-config-airbnb": "^16.1.0",
