@@ -1,0 +1,30 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+p {
+    font-weight: bold;
+
+}
+
+button {
+    background-color: cyan
+}
+
+#all-cards {
+    bottom: 50px;
+    position: absolute;
+}
+
+#player-deck {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+#dealer-deck {
+    position: absolute;
+    left: 50%;
+    
+
+}

@@ -1,0 +1,13 @@
+{
+    "extends": "airbnb-base",
+    "rules": {
+        "no-const-assign":"off",
+        "no-var":"off",
+        "prefer-template":"warn",
+        "one-var":"off",
+        "prefer-const":"off"
+    },
+    "globals": {
+        "document": true
+    }
+}
